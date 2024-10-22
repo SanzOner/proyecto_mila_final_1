@@ -1,0 +1,959 @@
+{
+  "usuarios": [
+    {
+      "id": "a917",
+      "rol": "mesero",
+      "nombre": "nicole ",
+      "apellido": "perez",
+      "telefono": "3148812180",
+      "numero_documento": "1019027709",
+      "tipo_documento": "Cedula de ciudadania",
+      "barrio": "santa rita",
+      "email": "nicoleorjuela1552@gmail.com",
+      "contrasena": "Hola1234#",
+      "horario": "Tarde",
+      "titulo": "",
+      "estado": "Activo"
+    },
+    {
+      "id": "39a8",
+      "rol": "administrador",
+      "nombre": "Johan",
+      "apellido": "martinez",
+      "telefono": "3052970187",
+      "numero_documento": "1020023666",
+      "tipo_documento": "Cedula de ciudadania",
+      "barrio": "santa rita",
+      "email": "johan12@gmail.com",
+      "contrasena": "Hola12345#",
+      "horario": "",
+      "titulo": "administrador",
+      "estado": "Activo"
+    },
+    {
+      "id": "5bae",
+      "nombre": "Nicole",
+      "apellido": "Orjuela",
+      "telefono": "3114778362",
+      "numero_documento": "1019087044",
+      "tipo_documento": "Cedula de ciudadania",
+      "direccion": "cll 133 # 156 a 20",
+      "barrio": "santa cecilia",
+      "email": "Nicole1526@gmail.com",
+      "contrasena": "Hola1234#",
+      "rol": "Cliente",
+      "estado": "Activo",
+      "aceptaTerminos": true
+    },
+    {
+      "id": "fdaf",
+      "nombre": "Nicolas ",
+      "apellido": "Fandino",
+      "telefono": "3148812180",
+      "numero_documento": "41355906",
+      "tipo_documento": "Cedula de ciudadania",
+      "direccion": "cll 133 # 156 a 20",
+      "barrio": "santa rita",
+      "email": "nicolas15@gmail.com",
+      "contrasena": "Hola1234#",
+      "rol": "Cliente",
+      "estado": "Activo",
+      "aceptaTerminos": true
+    },
+    {
+      "id": "fc30",
+      "nombre": "nicole ",
+      "apellido": "orjulea",
+      "telefono": "3223918335",
+      "numero_documento": "44545645456",
+      "tipo_documento": "Cedula de ciudadania",
+      "direccion": "Cll 133 # 156 A - 20",
+      "barrio": "santa rita",
+      "email": "nso@hotmail.com",
+      "contrasena": "Hola12345#",
+      "rol": "Cliente",
+      "estado": "Activo",
+      "aceptaTerminos": true
+    },
+    {
+      "id": "ebf2",
+      "nombre": "brownie",
+      "apellido": "sfkgfg",
+      "telefono": "3148812180",
+      "numero_documento": "54545454",
+      "tipo_documento": "Cedula de extranjeria",
+      "direccion": "cll 133 # 156 a 20",
+      "barrio": "santa rita",
+      "email": "b55555b52@gmail.com",
+      "contrasena": "Hola12345#",
+      "rol": "Cliente",
+      "estado": "Activo",
+      "aceptaTerminos": true
+    },
+    {
+      "id": "1c4f",
+      "nombre": "pastel",
+      "apellido": "martinez",
+      "telefono": "3148812180",
+      "numero_documento": "A123456789",
+      "tipo_documento": "Cedula de extranjeria",
+      "direccion": "cll 133 # 156 a 20",
+      "barrio": "dfsdfsdf",
+      "email": "lianaand56rea05@gmail.com",
+      "contrasena": "Hola1234#",
+      "rol": "Cliente",
+      "estado": "Activo",
+      "aceptaTerminos": true
+    },
+    {
+      "nombre": "nicole ",
+      "apellido": "sfkgfg",
+      "telefono": "3052970187",
+      "numero_documento": "58756656589",
+      "tipo_documento": "Cedula de ciudadania",
+      "direccion": "cll 133 # 156 a 20",
+      "barrio": "santa bilbao",
+      "email": "est.na6555vila89@smart.edu.co",
+      "id": "e509"
+    },
+    {
+      "nombre": "Sofia ",
+      "apellido": "oruela",
+      "telefono": "3052970187",
+      "numero_documento": "156565665",
+      "rol": "Cliente",
+      "tipo_documento": "Cedula de ciudadania",
+      "direccion": "cll 133 # 156 a 20",
+      "barrio": "santa rita",
+      "email": "lydabrigittep@hotmail.com",
+      "id": "2e8d"
+    },
+    {
+      "id": "8028",
+      "nombre": "Julian",
+      "apellido": "Orjuela",
+      "telefono": "3148812180",
+      "numero_documento": "8226665222",
+      "tipo_documento": "Cedula de ciudadania",
+      "direccion": "cll 133 # 156 a 20",
+      "barrio": "santa cecilia",
+      "email": "lydabrigi5566ttep@hotmail.com",
+      "contrasena": "Hola1234#",
+      "rol": "Cliente",
+      "estado": "Activo",
+      "aceptaTerminos": true
+    },
+    {
+      "id": "7590",
+      "nombre": "Julian",
+      "apellido": "orjulea",
+      "telefono": "3148812180",
+      "numero_documento": "777778787",
+      "tipo_documento": "Cedula de ciudadania",
+      "direccion": "cll 133 # 156 a 20",
+      "barrio": "santa rita",
+      "email": "nicoleorjuela551552@gmail.com",
+      "contrasena": "$2a$10$CZUn0Rf1lKB4zzzPmAKTaeyva0//aTnK.2au3aDfMdXGlsQCA9AIO",
+      "rol": "Cliente",
+      "estado": "Activo",
+      "aceptaTerminos": true
+    },
+    {
+      "estado": "inactivo",
+      "id": "ab49"
+    }
+  ],
+  "reservas": [
+    {
+      "id": "80fa",
+      "nombre": "Johan ",
+      "celular": "1232132343",
+      "correo": "as@asd.sad",
+      "numerodoc": "4578986545",
+      "numeroPersonas": "4",
+      "fecha": "2025-03-04",
+      "horaInicio": "04:03",
+      "decoracion": "Aniversario",
+      "actividades": "Dibujo_colores",
+      "comentarios": "Prueba api",
+      "estado_reserva": "Activa",
+      "tipo_reserva": "reserva_mesa",
+      "terminos": true
+    },
+    {
+      "id": "5f49",
+      "nombre": "Nicole",
+      "celular": "3114778362",
+      "correo": "Nicole1526@gmail.com",
+      "numero_documento": "1019087044",
+      "numeroPersonas": "15",
+      "fecha": "2024-10-18",
+      "horaInicio": "11:07",
+      "horaFin": "15:07",
+      "comentarios": "dos mesas infantiles",
+      "tipoServicios": "Decoracion",
+      "estado_reserva": "Activa",
+      "tipo_reserva": "reserva_local",
+      "terminos": true,
+      "userId": "5bae"
+    }
+  ],
+  "productos": [
+    {
+      "id": "1715",
+      "nombre": "camarones ",
+      "precio": "15.000",
+      "descripcion": "camarones en coctel de salsa de piña",
+      "imagen": "https://comedera.com/wp-content/uploads/sites/9/2023/02/camarones-al-mojo-de-ajo-shutterstock_2120733179.jpg",
+      "categoria": "entradas",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-09T23:02:16.919Z"
+    },
+    {
+      "id": "5fdb",
+      "nombre": "Langostinos crocantes",
+      "precio": "38.000",
+      "descripcion": "Exquisitos langostinos empanizados en una capa crujiente, acompañados de una deliciosa salsa de ajo y limón. ",
+      "imagen": "https://www.hogarmania.com/archivos/202012/karl66740320-langostinos-crujientes-con-mahonesa-receta-joseba-arguinano-1280x720x80xX.jpg",
+      "categoria": "entradas",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-12T03:46:51.140Z"
+    },
+    {
+      "id": "6495",
+      "nombre": "ceviche tilapia",
+      "precio": "30.000",
+      "descripcion": "Los ingredientes para un ceviche de tilapia son tilapia fresca, jugo de limón, cebolla morada, tomate, cilantro, chile o ají (opcional), ajo, sal, pimienta, aceite de oliva, aguacate (opcional), lechuga para decorar y tostadas o chips para acompañar",
+      "imagen": "https://mojo.generalmills.com/api/public/content/CsSALdeyO0aFKpBrTh32Pg_gmi_hi_res_jpeg.jpeg?v=c68d0c4f&t=16e3ce250f244648bef28c5949fb99ff",
+      "categoria": "entradas",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-12T03:50:20.571Z"
+    },
+    {
+      "id": "49d2",
+      "nombre": "Atun balsamico",
+      "precio": "40.000",
+      "descripcion": "El plato consiste en un filete de atún fresco, cocinado a la perfección para mantener su textura suave y jugosa. El atún se coloca sobre una cama\n\n- 4 filetes de atún fresco (de aproximadamente 120 g cada uno)\n- taza de vinagre balsámico\n- taza de aceite de oliva\n- cucharadas de azúcar mor",
+      "imagen": "https://th.bing.com/th/id/OIP.GjhgZ9ZVXW92Bv4IHiTK7QHaE5?w=245&h=180&c=7&r=0&o=5&pid=1.7",
+      "categoria": "entradas",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T09:59:16.412Z"
+    },
+    {
+      "id": "e5f0",
+      "nombre": "Langostinos Crocantes",
+      "precio": "38.000",
+      "descripcion": "angostinos frescos cubiertos con una mezcla crujiente de harina, pan rallado y especias, fritos hasta dorados y servidos calientes.\nIngredientes:\n- de langostinos frescos\n- taza de harina\n- taza de pan rallado\n- taza de aceite de oliva\n- cucharadas de mantequilla derretida",
+      "imagen": "https://th.bing.com/th/id/OIP.Q0qypwVfYkImhNM9Wme_AAHaFP?w=283&h=200&c=7&r=0&o=5&pid=1.7",
+      "categoria": "entradas",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:03:40.279Z"
+    },
+    {
+      "id": "03e5",
+      "nombre": "Ceviche Camaron",
+      "precio": "35.000",
+      "descripcion": "Descripción: Camarones frescos marinados en un baño de jugo de limón, mezclado con cebolla, ajo, cilantro y especias, servidos frescos y crudos.\n\nIngredientes:\n- camarones frescos\n- 1/2 taza de jugo de limón\n- 1/4 taza de cebolla picada\n- dientes de ajo picados\n- taza de cilantro picado",
+      "imagen": "https://th.bing.com/th/id/OIP.Mx2zcIqwg70qPfUmQbTCbgHaGK?w=231&h=193&c=7&r=0&o=5&pid=1.7",
+      "categoria": "entradas",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:04:54.866Z"
+    },
+    {
+      "id": "2072",
+      "nombre": "Tiradito Camaron",
+      "precio": "37.000",
+      "descripcion": "Fina láminas de camarón crudo cortadas en tiras, marinadas en un baño de jugo de limón, mezclado con cebolla, ajo, cilantro y especias, servidas frescas y crudas.\n\nIngredientes:\n- de camarones frescos\n- 1/2 taza de jugo de limón\n- 1/4 taza de cebolla picada\n-  dientes de ajo picado",
+      "imagen": "https://th.bing.com/th/id/OIP.gbVQjWOsZBrw-fFH6-vYogHaE8?w=296&h=197&c=7&r=0&o=5&pid=1.7",
+      "categoria": "entradas",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:06:08.637Z"
+    },
+    {
+      "id": "5316",
+      "nombre": "Tortas de Salmon",
+      "precio": "25.000",
+      "descripcion": " Pastelitos frescos y sabrosos hechos con salmón fresco, verduras y especias, cubiertos con una capa de masa crujiente y dorada.\n\nIngredientes:\n\n- 500g de salmón fresco picado\n- cebolla picada\n- dientes de ajo picados\n- taza de pan rallado\n- taza de queso rallado\n- taza ",
+      "imagen": "https://th.bing.com/th/id/OIP.tAaqitFQhl7odISdagrxnQHaE8?w=288&h=192&c=7&r=0&o=5&pid=1.7",
+      "categoria": "entradas",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:08:17.290Z"
+    },
+    {
+      "id": "8961",
+      "nombre": "Arooz con calamar",
+      "precio": "25.000",
+      "descripcion": "Plato sabroso y nutritivo que combina arroz suave con calamares tiernos y frescos, cocinados con verduras y especias.\n\nIngredientes:\n- taza de arroz blanco\n- de calamares frescos cortados en anillos\n-cebollas picadas\n- dientes de ajo picados\n- taza de caldo de pescado",
+      "imagen": "https://th.bing.com/th/id/OIP.xe59LkKo6Bbx583E982KFAHaFe?w=225&h=180&c=7&r=0&o=5&pid=1.7",
+      "categoria": "entradas",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:09:26.046Z"
+    },
+    {
+      "id": "2cff",
+      "nombre": "Empanadas",
+      "precio": "17.000",
+      "descripcion": "Pastelitos salados o dulces hechos con masa de harina y rellenos variados, horneados o fritos hasta dorados.\n\nIngredientes (varían según relleno):\nEmpanadas Saladas:\n- tazas de harina\n- cucharadita de sal\n- cucharadita de polvo de hornear\n- taza de manteca derretida",
+      "imagen": "https://th.bing.com/th/id/OIP.Rn6aiapvpR9oTv89rrgZLAHaFF?w=243&h=180&c=7&r=0&o=5&pid=1.7",
+      "categoria": "entradas",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:12:05.545Z"
+    },
+    {
+      "id": "3fe6",
+      "nombre": "Brusquetas",
+      "precio": "25.000",
+      "descripcion": "Tostadas de pan crujientes cubiertas con ingredientes frescos y sabrosos, típicamente servidas como aperitivo o snack.\nIngredientes:\n- 4-6 rebanadas de pan baguette\n- tomates frescos picados\n- taza de aceite de oliva\n-  dientes de ajo picados\n- taza de albahaca fresca pi",
+      "imagen": "https://th.bing.com/th/id/OIP.tShd0iimZXJfO9uiC903fwHaEO?w=260&h=180&c=7&r=0&o=5&pid=1.7",
+      "categoria": "entradas",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:12:16.165Z"
+    },
+    {
+      "id": "44e6",
+      "nombre": "Alitas",
+      "precio": "30.000",
+      "descripcion": " Alas de pollo crujientes y sabrosas, fritas o a la parrilla, y acompañadas de diversas salsas.\nIngredientes:\n- 12-16 alitas de pollo\n- taza de harina\n-  taza de pan rallado\n- cucharadita de sal\n- cucharadita de pimienta\n- cucharadita de paprika\n- Aceite vegetal par",
+      "imagen": "https://th.bing.com/th/id/OIP.HtOXsG1fSqn1H29S1TtvqAHaEK?w=304&h=180&c=7&r=0&o=5&pid=1.7",
+      "categoria": "entradas",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:13:21.523Z"
+    },
+    {
+      "id": "5895",
+      "nombre": "Arrancinis",
+      "precio": "18.000",
+      "descripcion": "Bolas de arroz rellenas de ingredientes sabrosos, empanadas y fritas hasta doradas.\nIngredientes:\n- tazas de arroz cocido\n- taza de relleno (ej.: queso mozzarella, carne mechada, verduras)\n- huevo\n- taza de pan rallado\n- cucharadita de sal\n- cucharadita de pimient",
+      "imagen": "https://th.bing.com/th/id/OIP.ZcnTQTCt3PWscoAdr5nYsAHaE8?w=305&h=204&c=7&r=0&o=5&pid=1.7",
+      "categoria": "entradas",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:15:26.458Z"
+    },
+    {
+      "id": "b982",
+      "nombre": "Solomillo",
+      "precio": "60.000",
+      "descripcion": "Descripción: Filetes tiernos y jugosos de ternera, cortados en forma de solomillo, ideal para asar o saltear.\nIngredientes:\n- 4 solomillos de ternera (aproximadamente 200g cada uno)\n- Sal y pimienta al gusto\n- Aceite de oliva para cocinar\n- Opcional: mantequilla, ajo, hierbas frescas (romero, to",
+      "imagen": "https://th.bing.com/th/id/OIP.VdFJZk5V1G-cK9c4x7nnKwHaFj?w=218&h=180&c=7&r=0&o=5&pid=1.7",
+      "categoria": "plato fuerte",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:15:33.486Z"
+    },
+    {
+      "id": "48c0",
+      "nombre": "Codillos",
+      "precio": "65.000",
+      "descripcion": "Descripción: Porciones de costillas de cerdo tiernas y sabrosas, ideales para asar o cocinar en salsa.\nIngredientes:\n- 4-6 codillos de cerdo (costillas)\n- Sal y pimienta al gusto\n- Aceite de oliva para cocinar\n- Opcional: salsa BBQ, salsa de soja, miel, mostaza",
+      "imagen": "https://th.bing.com/th/id/OIP.ppyhcug0jGPpxnYUFUYgNwHaE9?w=287&h=191&c=7&r=0&o=5&pid=1.7",
+      "categoria": "plato fuerte",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:16:38.032Z"
+    },
+    {
+      "id": "132e",
+      "nombre": "Churrasco",
+      "precio": "45.000",
+      "descripcion": "Descripción: Plato típico de carne asada, originario de América Latina, especialmente popular en Argentina, Uruguay y Chile.\nIngredientes:\n- 500g de carne de ternera (o res) en tiras finas\n- Sal y pimienta al gusto\n- Aceite de oliva para cocinar\n- Opcional: chimichurri (salsa de hierbas, ajo y l",
+      "imagen": "https://th.bing.com/th/id/OIP.gBevMlE4V6Wj6nZ756z8vgHaE6?w=247&h=180&c=7&r=0&o=5&pid=1.7",
+      "categoria": "plato fuerte",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:17:37.587Z"
+    },
+    {
+      "id": "a7da",
+      "nombre": "Panceta de Cerdo",
+      "precio": "45.000",
+      "descripcion": "1. Panceta Ibérica: Procedente de la región ibérica, conocida por su sabor intenso y textura crujiente.\n2. Panceta Italiana: Originaria de Italia, curada con sal y especias.\n3. Panceta Americana: Estilo estadounidense, ahumada y curada.\n4. Panceta Mexicana: Variante mexicana, con sabor a chile y esp",
+      "imagen": "https://th.bing.com/th/id/OIP.w8RwBbio7HzQeQNJTndszQHaE8?w=285&h=190&c=7&r=0&o=5&pid=1.7",
+      "categoria": "plato fuerte",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:19:48.888Z"
+    },
+    {
+      "id": "22dd",
+      "nombre": "Pollo al Datil",
+      "precio": "45.000",
+      "descripcion": " Receta tradicional peruana, que combina pollo con datiles (aceitunas verdes) y especias, creando un sabor único y delicioso.\nIngredientes:\n- 1 pollo entero (1,5 kg)\n- 1 taza de datiles (aceitunas verdes)\n- cucharadas de aceite de oliva\n- cebolla picada\n- dientes de ajo picado",
+      "imagen": "https://th.bing.com/th/id/OIP.o8vRQ7dZtgm6W5mp2pLM8QHaD4?w=292&h=180&c=7&r=0&o=5&pid=1.7",
+      "categoria": "plato fuerte",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:23:40.194Z"
+    },
+    {
+      "id": "7ac2",
+      "nombre": "Costilla de Cerdo",
+      "precio": "40.000",
+      "descripcion": "Corte de carne de cerdo que incluye las costillas, ideal para asar o cocinar en salsa.\nIngredientes:\n- 1 costillar de cerdo (1,5-2 kg)\n- Sal y pimienta al gusto\n- Aceite de oliva para cocinar\n- Opcional: salsa BBQ, salsa de soja, miel, mostaza",
+      "imagen": "https://th.bing.com/th/id/OIP.HndiVl72Mfa_wpWYYBDiMgHaE6?w=276&h=183&c=7&r=0&o=5&pid=1.7",
+      "categoria": "plato fuerte",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:24:40.932Z"
+    },
+    {
+      "id": "a8f2",
+      "nombre": "Raviolis",
+      "precio": "47.000",
+      "descripcion": " Pasta rellena de origen italiano, consiste en dos capas de masa de harina separadas por \n- Queso ricotta y espinacas\n- Carne picada y tomate\n- Verduras (champiñones, zanahorias, calabacines)\n- Mariscos (camarones, salmón)\nSalsas:\n- Salsa de tomate\n- Salsa de crema\n- Pesto\n- Salsa de champiñones",
+      "imagen": "https://th.bing.com/th/id/OIP.3O9ivG78EFKXwSPtkOGEjwHaE8?w=264&h=180&c=7&r=0&o=5&pid=1.7",
+      "categoria": "plato fuerte",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:27:35.871Z"
+    },
+    {
+      "id": "08ba",
+      "nombre": "Bolognesa",
+      "precio": "39.000",
+      "descripcion": "Salsa italiana clásica, originaria de Bolonia, hecha con carne picada, verduras y tomate, utilizada para acompañar pasta.\nIngredientes:\n\n- 500g de carne picada (ternera o cerdo)\n- cebolla picada\n- dientes de ajo picados\n- zanahoria picada\n- cucharada de tomate concentrado\n",
+      "imagen": "https://th.bing.com/th/id/OIP.YixleAz2dzjXRd3FGfaIlwAAAA?w=256&h=180&c=7&r=0&o=5&pid=1.7",
+      "categoria": "plato fuerte",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:29:24.251Z"
+    },
+    {
+      "id": "610b",
+      "nombre": "Margarita",
+      "precio": "30.000",
+      "descripcion": "Cóctel clásico mexicano hecho con tequila, jugo de limón y triple sec, servido en una copa de sal.\nIngredientes:\n- 2 oz tequila (preferiblemente blanco)\n-  jugo de limón fresco\n- triple sec (o Cointreau)\n- Sal para el borde de la copa\n- Hielo\n- Rodaja de limón para decora",
+      "imagen": "https://th.bing.com/th/id/OIP.N07Zwu6QdbYvyb6uvfM4CQHaE6?w=284&h=189&c=7&r=0&o=5&pid=1.7",
+      "categoria": "cocteles",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:29:34.565Z"
+    },
+    {
+      "id": "342e",
+      "nombre": "Mojito",
+      "precio": "26.000",
+      "descripcion": "Cóctel refrescante originario de Cuba, hecho con ron, menta, limón y azúcar.\nIngredientes:\n- 2 oz ron blanco\n- 1 oz jugo de limón fresco\n- 1 cucharadita de azúcar\n- Manojito de hojas de menta fresca\n- Hielo\n- Soda water\n- Rodaja de limón para decorar",
+      "imagen": "https://th.bing.com/th/id/OIP.2A--f1MyGLkgHrqycY6R1gHaEK?w=285&h=180&c=7&r=0&o=5&pid=1.7",
+      "categoria": "cocteles",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:34:07.818Z"
+    },
+    {
+      "id": "e761",
+      "nombre": "Caipiroska",
+      "precio": "29.000",
+      "descripcion": "Descripción: Cóctel brasileño refrescante hecho con vodka, limón, azúcar y hielo.\n\nIngredientes:\n\n- 2 oz vodka\n- 1/2 limón cortado en rodajas\n- 1 cucharadita de azúcar\n- Hielo\n- Copa alta\n\n\n\n",
+      "imagen": "https://th.bing.com/th/id/OIP.Q9aZ4YrWfQXwqTa8uC296gHaHa?w=187&h=187&c=7&r=0&o=5&pid=1.7",
+      "categoria": "cocteles",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:36:04.864Z"
+    },
+    {
+      "id": "e77c",
+      "nombre": "Gin tonic",
+      "precio": "32.000",
+      "descripcion": "Ingredientes:\n- 1,5 oz gin\n- 4 oz tónico\n- Rodaja de limón o lima\n- Hielo\n- Copa alta\n\nPreparación:\n1. Llena la copa con hielo.\n2. Vierte el gin.\n3. Agrega el tónico.\n4. Exprime una rodaja de limón o lima y colócala en la copa",
+      "imagen": "https://th.bing.com/th/id/OIP.bVHSy5ivLpmIsaoF8Z67vgHaEM?w=235&h=183&c=7&r=0&o=5&pid=1.7",
+      "categoria": "cocteles",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:37:38.474Z"
+    },
+    {
+      "id": "e543",
+      "nombre": "Cosmopolitian",
+      "precio": "30.000",
+      "descripcion": "Ingredientes:\n- 1,5 oz vodka\n- 3/4 oz triple sec\n- 1/2 oz jugo de arándanos\n- 1/2 oz jugo de limón\n- Hielo\n- Copa de cóctel\n\n\nPreparación:\n1. Llena la copa con hielo.\n2. Vierte el vodka, triple sec, jugo de arándanos y jugo de limón.\n3. Mezcla suavemente.\n4. Decora con una rodaja de limón o una ",
+      "imagen": "https://th.bing.com/th/id/OIP.bt31m3fJEyaGEUbawjsfHgHaE5?w=283&h=187&c=7&r=0&o=5&pid=1.7",
+      "categoria": "cocteles",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:37:50.071Z"
+    },
+    {
+      "id": "e773",
+      "nombre": "Orgasmo",
+      "precio": "32.000",
+      "descripcion": "Ingredientes:\n- 1 oz vodka\n- 1 oz Kahlúa\n- 1 oz Baileys Irish Cream\n- 1 oz crema para batir\n- Hielo\n- Copa alta\n\nPreparación:\n1. Llena la copa con hielo.\n2. Vierte el vodka, Kahlúa y Baileys.\n3. Agrega la crema para batir.\n4. Mezcla suavemente.",
+      "imagen": "https://th.bing.com/th/id/OIP.iYgr3aOM4gCl7KPw_qUZTAHaEK?w=279&h=180&c=7&r=0&o=5&pid=1.7",
+      "categoria": "cocteles",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:40:51.234Z"
+    },
+    {
+      "id": "30ab",
+      "nombre": "Cupido",
+      "precio": "40.000",
+      "descripcion": "El Cóctel Cupido es una bebida refrescante y romántica, perfecta para una cita o una noche especial. A continuación, te proporciono la receta y algunos datos interesantes sobre este cóctel:\n\nIngredientes:\n- 1 oz vodka\n- 1 oz licor de fresa (o Grand Marnier)\n- 1 oz jugo de fresa\n- 1/2 oz jugo de l",
+      "imagen": "https://th.bing.com/th/id/OIP.3OnkLVhrM2o4JD5-k8fe5AHaK5?w=126&h=185&c=7&r=0&o=5&pid=1.7",
+      "categoria": "cocteles",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-19T10:41:07.028Z"
+    },
+    {
+      "id": "f191",
+      "nombre": "brownie",
+      "precio": "7.000",
+      "descripcion": "brownie de chocolate",
+      "imagen": "https://www.aceitesdeolivadeespana.com/wp-content/uploads/2019/03/brownies-de-chocolate-1000x768.png",
+      "categoria": "postres",
+      "estado": "inactivo",
+      "fechaRegistro": "2024-10-17T14:14:19.537Z"
+    }
+  ],
+  "pedidos": [
+    {
+      "id": "0040",
+      "idpedido": 66888,
+      "fecha": "2024-09-19",
+      "hora": "11:19",
+      "metodoPago": "credito",
+      "total": "98.000",
+      "tipoEntrega": "recogida",
+      "cantidad": 3,
+      "detallesPedido": "lñklkñk",
+      "estado": "activo",
+      "usuario": {
+        "nombre": "Nicole",
+        "apellido": "Orjuela",
+        "numero_documento": "1019087044",
+        "direccion": "cll 133 # 156 a 20",
+        "barrio": "santa cecilia",
+        "idusuario": "5bae"
+      },
+      "carrito": [
+        {
+          "id": "6495",
+          "nombre": "ceviche tilapia",
+          "precio": "30.000",
+          "descripcion": "Los ingredientes para un ceviche de tilapia son tilapia fresca, jugo de limón, cebolla morada, tomate, cilantro, chile o ají (opcional), ajo, sal, pimienta, aceite de oliva, aguacate (opcional), lechuga para decorar y tostadas o chips para acompañar",
+          "imagen": "https://mojo.generalmills.com/api/public/content/CsSALdeyO0aFKpBrTh32Pg_gmi_hi_res_jpeg.jpeg?v=c68d0c4f&t=16e3ce250f244648bef28c5949fb99ff",
+          "categoria": "entradas",
+          "estado": "activo",
+          "fechaRegistro": "2024-09-12T03:50:20.571Z",
+          "cantidad": 2
+        },
+        {
+          "id": "5fdb",
+          "nombre": "Langostinos crocantes",
+          "precio": "38.000",
+          "descripcion": "Exquisitos langostinos empanizados en una capa crujiente, acompañados de una deliciosa salsa de ajo y limón. ",
+          "imagen": "https://www.hogarmania.com/archivos/202012/karl66740320-langostinos-crujientes-con-mahonesa-receta-joseba-arguinano-1280x720x80xX.jpg",
+          "categoria": "entradas",
+          "estado": "activo",
+          "fechaRegistro": "2024-09-12T03:46:51.140Z",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "id": "377e",
+      "idpedido": 14645,
+      "fecha": "2024-09-19",
+      "hora": "12:25",
+      "metodoPago": "credito",
+      "total": "113.000",
+      "tipoEntrega": "recogida",
+      "cantidad": 4,
+      "detallesPedido": "JDFDJFKDKFDF",
+      "estado": "activo",
+      "usuario": {
+        "nombre": "Nicole",
+        "apellido": "Orjuela",
+        "numero_documento": "1019087044",
+        "direccion": "cll 133 # 156 a 20",
+        "barrio": "santa cecilia",
+        "idusuario": "5bae"
+      },
+      "carrito": [
+        {
+          "id": "1715",
+          "nombre": "camarones ",
+          "precio": "15.000",
+          "descripcion": "camarones en coctel de salsa de piña",
+          "imagen": "https://comedera.com/wp-content/uploads/sites/9/2023/02/camarones-al-mojo-de-ajo-shutterstock_2120733179.jpg",
+          "categoria": "entradas",
+          "estado": "activo",
+          "fechaRegistro": "2024-09-09T23:02:16.919Z",
+          "cantidad": 1
+        },
+        {
+          "id": "6495",
+          "nombre": "ceviche tilapia",
+          "precio": "30.000",
+          "descripcion": "Los ingredientes para un ceviche de tilapia son tilapia fresca, jugo de limón, cebolla morada, tomate, cilantro, chile o ají (opcional), ajo, sal, pimienta, aceite de oliva, aguacate (opcional), lechuga para decorar y tostadas o chips para acompañar",
+          "imagen": "https://mojo.generalmills.com/api/public/content/CsSALdeyO0aFKpBrTh32Pg_gmi_hi_res_jpeg.jpeg?v=c68d0c4f&t=16e3ce250f244648bef28c5949fb99ff",
+          "categoria": "entradas",
+          "estado": "activo",
+          "fechaRegistro": "2024-09-12T03:50:20.571Z",
+          "cantidad": 2
+        },
+        {
+          "id": "5fdb",
+          "nombre": "Langostinos crocantes",
+          "precio": "38.000",
+          "descripcion": "Exquisitos langostinos empanizados en una capa crujiente, acompañados de una deliciosa salsa de ajo y limón. ",
+          "imagen": "https://www.hogarmania.com/archivos/202012/karl66740320-langostinos-crujientes-con-mahonesa-receta-joseba-arguinano-1280x720x80xX.jpg",
+          "categoria": "entradas",
+          "estado": "activo",
+          "fechaRegistro": "2024-09-12T03:46:51.140Z",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "id": "4a4b",
+      "idpedido": 194407,
+      "fecha": "2024-09-19",
+      "hora": "17:51",
+      "metodoPago": "credito",
+      "total": "17.000",
+      "tipoEntrega": "recogida",
+      "cantidad": 1,
+      "detallesPedido": " mcmzlxdfzdsf",
+      "estado": "activo",
+      "usuario": {
+        "nombre": "Nicole",
+        "apellido": "Orjuela",
+        "numero_documento": "1019087044",
+        "direccion": "cll 133 # 156 a 20",
+        "barrio": "santa cecilia",
+        "idusuario": "5bae"
+      },
+      "carrito": [
+        {
+          "id": "2cff",
+          "nombre": "Empanadas",
+          "precio": "17.000",
+          "descripcion": "Pastelitos salados o dulces hechos con masa de harina y rellenos variados, horneados o fritos hasta dorados.\n\nIngredientes (varían según relleno):\nEmpanadas Saladas:\n- tazas de harina\n- cucharadita de sal\n- cucharadita de polvo de hornear\n- taza de manteca derretida",
+          "imagen": "https://th.bing.com/th/id/OIP.Rn6aiapvpR9oTv89rrgZLAHaFF?w=243&h=180&c=7&r=0&o=5&pid=1.7",
+          "categoria": "entradas",
+          "estado": "activo",
+          "fechaRegistro": "2024-09-19T10:12:05.545Z",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "id": "021b",
+      "idpedido": 95091,
+      "fecha": "2024-09-19",
+      "hora": "11:55",
+      "metodoPago": "credito",
+      "total": "125.000",
+      "tipoEntrega": "recogida",
+      "cantidad": 4,
+      "detallesPedido": "cvxvdfgv",
+      "estado": "activo",
+      "usuario": {
+        "nombre": "Nicole",
+        "apellido": "Orjuela",
+        "numero_documento": "1019087044",
+        "direccion": "cll 133 # 156 a 20",
+        "barrio": "santa cecilia",
+        "idusuario": "5bae"
+      },
+      "carrito": [
+        {
+          "id": "44e6",
+          "nombre": "Alitas",
+          "precio": "30.000",
+          "descripcion": " Alas de pollo crujientes y sabrosas, fritas o a la parrilla, y acompañadas de diversas salsas.\nIngredientes:\n- 12-16 alitas de pollo\n- taza de harina\n-  taza de pan rallado\n- cucharadita de sal\n- cucharadita de pimienta\n- cucharadita de paprika\n- Aceite vegetal par",
+          "imagen": "https://th.bing.com/th/id/OIP.HtOXsG1fSqn1H29S1TtvqAHaEK?w=304&h=180&c=7&r=0&o=5&pid=1.7",
+          "categoria": "entradas",
+          "estado": "activo",
+          "fechaRegistro": "2024-09-19T10:13:21.523Z",
+          "cantidad": 3
+        },
+        {
+          "id": "03e5",
+          "nombre": "Ceviche Camaron",
+          "precio": "35.000",
+          "descripcion": "Descripción: Camarones frescos marinados en un baño de jugo de limón, mezclado con cebolla, ajo, cilantro y especias, servidos frescos y crudos.\n\nIngredientes:\n- camarones frescos\n- 1/2 taza de jugo de limón\n- 1/4 taza de cebolla picada\n- dientes de ajo picados\n- taza de cilantro picado",
+          "imagen": "https://th.bing.com/th/id/OIP.Mx2zcIqwg70qPfUmQbTCbgHaGK?w=231&h=193&c=7&r=0&o=5&pid=1.7",
+          "categoria": "entradas",
+          "estado": "activo",
+          "fechaRegistro": "2024-09-19T10:04:54.866Z",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "id": "15ce",
+      "idpedido": 6338,
+      "fecha": "2024-10-17",
+      "hora": "13:30",
+      "metodoPago": "nequi",
+      "total": "34.000",
+      "tipoEntrega": "envio",
+      "cantidad": 2,
+      "detallesPedido": "",
+      "estado": "activo",
+      "usuario": {
+        "nombre": "Nicole",
+        "apellido": "Orjuela",
+        "numero_documento": "1019087044",
+        "direccion": "cll 133 # 156 a 20",
+        "barrio": "santa cecilia",
+        "idusuario": "5bae"
+      },
+      "carrito": [
+        {
+          "id": "2cff",
+          "nombre": "Empanadas",
+          "precio": "17.000",
+          "descripcion": "Pastelitos salados o dulces hechos con masa de harina y rellenos variados, horneados o fritos hasta dorados.\n\nIngredientes (varían según relleno):\nEmpanadas Saladas:\n- tazas de harina\n- cucharadita de sal\n- cucharadita de polvo de hornear\n- taza de manteca derretida",
+          "imagen": "https://th.bing.com/th/id/OIP.Rn6aiapvpR9oTv89rrgZLAHaFF?w=243&h=180&c=7&r=0&o=5&pid=1.7",
+          "categoria": "entradas",
+          "estado": "activo",
+          "fechaRegistro": "2024-09-19T10:12:05.545Z",
+          "cantidad": 2
+        }
+      ]
+    },
+    {
+      "id": "829a",
+      "idpedido": 540170,
+      "fecha": "2024-10-17",
+      "hora": "11:49",
+      "metodoPago": "nequi",
+      "total": "15.000",
+      "tipoEntrega": "envio",
+      "cantidad": 1,
+      "detallesPedido": "kkkk",
+      "estado": "entregado",
+      "usuario": {
+        "nombre": "Nicole",
+        "apellido": "Orjuela",
+        "numero_documento": "1019087044",
+        "direccion": "cll 133 # 156 a 20",
+        "barrio": "santa cecilia",
+        "idusuario": "5bae"
+      },
+      "carrito": [
+        {
+          "id": "1715",
+          "nombre": "camarones ",
+          "precio": "15.000",
+          "descripcion": "camarones en coctel de salsa de piña",
+          "imagen": "https://comedera.com/wp-content/uploads/sites/9/2023/02/camarones-al-mojo-de-ajo-shutterstock_2120733179.jpg",
+          "categoria": "entradas",
+          "estado": "activo",
+          "fechaRegistro": "2024-09-09T23:02:16.919Z",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "id": "a20c",
+      "idpedido": 456953,
+      "fecha": "2024-10-17",
+      "hora": "11:11",
+      "metodoPago": "nequi",
+      "total": "18.000",
+      "tipoEntrega": "envio",
+      "cantidad": 1,
+      "detallesPedido": "l",
+      "estado": "activo",
+      "usuario": {
+        "nombre": "Nicole",
+        "apellido": "Orjuela",
+        "numero_documento": "1019087044",
+        "direccion": "cll 133 # 156 a 20",
+        "barrio": "santa cecilia",
+        "idusuario": "5bae"
+      },
+      "carrito": [
+        {
+          "id": "5895",
+          "nombre": "Arrancinis",
+          "precio": "18.000",
+          "descripcion": "Bolas de arroz rellenas de ingredientes sabrosos, empanadas y fritas hasta doradas.\nIngredientes:\n- tazas de arroz cocido\n- taza de relleno (ej.: queso mozzarella, carne mechada, verduras)\n- huevo\n- taza de pan rallado\n- cucharadita de sal\n- cucharadita de pimient",
+          "imagen": "https://th.bing.com/th/id/OIP.ZcnTQTCt3PWscoAdr5nYsAHaE8?w=305&h=204&c=7&r=0&o=5&pid=1.7",
+          "categoria": "entradas",
+          "estado": "activo",
+          "fechaRegistro": "2024-09-19T10:15:26.458Z",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "id": "6c0c",
+      "idpedido": 827675,
+      "fecha": "2024-10-22",
+      "hora": "14:24",
+      "metodoPago": "nequi",
+      "total": "33.000",
+      "tipoEntrega": "envio",
+      "cantidad": 2,
+      "detallesPedido": "",
+      "estado": "activo",
+      "usuario": {
+        "nombre": "Johan",
+        "apellido": "martinez",
+        "numero_documento": "1020023666",
+        "barrio": "santa rita",
+        "idusuario": "39a8"
+      },
+      "carrito": [
+        {
+          "id": "5895",
+          "nombre": "Arrancinis",
+          "precio": "18.000",
+          "descripcion": "Bolas de arroz rellenas de ingredientes sabrosos, empanadas y fritas hasta doradas.\nIngredientes:\n- tazas de arroz cocido\n- taza de relleno (ej.: queso mozzarella, carne mechada, verduras)\n- huevo\n- taza de pan rallado\n- cucharadita de sal\n- cucharadita de pimient",
+          "imagen": "https://th.bing.com/th/id/OIP.ZcnTQTCt3PWscoAdr5nYsAHaE8?w=305&h=204&c=7&r=0&o=5&pid=1.7",
+          "categoria": "entradas",
+          "estado": "activo",
+          "fechaRegistro": "2024-09-19T10:15:26.458Z",
+          "cantidad": 1
+        },
+        {
+          "id": "1715",
+          "nombre": "camarones ",
+          "precio": "15.000",
+          "descripcion": "camarones en coctel de salsa de piña",
+          "imagen": "https://comedera.com/wp-content/uploads/sites/9/2023/02/camarones-al-mojo-de-ajo-shutterstock_2120733179.jpg",
+          "categoria": "entradas",
+          "estado": "activo",
+          "fechaRegistro": "2024-09-09T23:02:16.919Z",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "id": "1328",
+      "idpedido": 484104,
+      "fecha": "2024-10-22",
+      "hora": "13:27",
+      "metodoPago": "nequi",
+      "total": "45.000",
+      "tipoEntrega": "envio",
+      "cantidad": 1,
+      "detallesPedido": "",
+      "estado": "activo",
+      "usuario": {
+        "nombre": "Nicolas ",
+        "apellido": "Fandino",
+        "numero_documento": "41355906",
+        "direccion": "cll 133 # 156 a 20",
+        "barrio": "santa rita",
+        "idusuario": "fdaf"
+      },
+      "carrito": [
+        {
+          "id": "132e",
+          "nombre": "Churrasco",
+          "precio": "45.000",
+          "descripcion": "Descripción: Plato típico de carne asada, originario de América Latina, especialmente popular en Argentina, Uruguay y Chile.\nIngredientes:\n- 500g de carne de ternera (o res) en tiras finas\n- Sal y pimienta al gusto\n- Aceite de oliva para cocinar\n- Opcional: chimichurri (salsa de hierbas, ajo y l",
+          "imagen": "https://th.bing.com/th/id/OIP.gBevMlE4V6Wj6nZ756z8vgHaE6?w=247&h=180&c=7&r=0&o=5&pid=1.7",
+          "categoria": "plato fuerte",
+          "estado": "activo",
+          "fechaRegistro": "2024-09-19T10:17:37.587Z",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "id": "7bab",
+      "idpedido": 996398,
+      "fecha": "2024-10-22",
+      "hora": "13:32",
+      "metodoPago": "Daviplata",
+      "total": "17.000",
+      "tipoEntrega": "envio",
+      "cantidad": 1,
+      "detallesPedido": "",
+      "estado": "activo",
+      "usuario": {
+        "nombre": "Nicolas ",
+        "apellido": "Fandino",
+        "numero_documento": "41355906",
+        "direccion": "cll 133 # 156 a 20",
+        "barrio": "santa rita",
+        "idusuario": "fdaf"
+      },
+      "carrito": [
+        {
+          "id": "2cff",
+          "nombre": "Empanadas",
+          "precio": "17.000",
+          "descripcion": "Pastelitos salados o dulces hechos con masa de harina y rellenos variados, horneados o fritos hasta dorados.\n\nIngredientes (varían según relleno):\nEmpanadas Saladas:\n- tazas de harina\n- cucharadita de sal\n- cucharadita de polvo de hornear\n- taza de manteca derretida",
+          "imagen": "https://th.bing.com/th/id/OIP.Rn6aiapvpR9oTv89rrgZLAHaFF?w=243&h=180&c=7&r=0&o=5&pid=1.7",
+          "categoria": "entradas",
+          "estado": "activo",
+          "fechaRegistro": "2024-09-19T10:12:05.545Z",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "id": "7c33",
+      "idpedido": 735535,
+      "fecha": "2024-10-22",
+      "hora": "14:38",
+      "metodoPago": "nequi",
+      "total": "17.000",
+      "tipoEntrega": "envio",
+      "cantidad": 1,
+      "detallesPedido": "",
+      "estado": "activo",
+      "usuario": {
+        "nombre": "Nicolas ",
+        "apellido": "Fandino",
+        "numero_documento": "41355906",
+        "direccion": "cll 133 # 156 a 20",
+        "barrio": "santa rita",
+        "idusuario": "fdaf"
+      },
+      "carrito": [
+        {
+          "id": "2cff",
+          "nombre": "Empanadas",
+          "precio": "17.000",
+          "descripcion": "Pastelitos salados o dulces hechos con masa de harina y rellenos variados, horneados o fritos hasta dorados.\n\nIngredientes (varían según relleno):\nEmpanadas Saladas:\n- tazas de harina\n- cucharadita de sal\n- cucharadita de polvo de hornear\n- taza de manteca derretida",
+          "imagen": "https://th.bing.com/th/id/OIP.Rn6aiapvpR9oTv89rrgZLAHaFF?w=243&h=180&c=7&r=0&o=5&pid=1.7",
+          "categoria": "entradas",
+          "estado": "activo",
+          "fechaRegistro": "2024-09-19T10:12:05.545Z",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "id": "1878",
+      "idpedido": 189144,
+      "fecha": "2024-10-22",
+      "hora": "12:09",
+      "metodoPago": "nequi",
+      "total": "25.000",
+      "tipoEntrega": "envio",
+      "cantidad": 1,
+      "detallesPedido": "",
+      "estado": "activo",
+      "usuario": {
+        "nombre": "nicole ",
+        "apellido": "perez",
+        "numero_documento": "1019027709",
+        "barrio": "santa rita",
+        "idusuario": "a917"
+      },
+      "carrito": [
+        {
+          "id": "3fe6",
+          "nombre": "Brusquetas",
+          "precio": "25.000",
+          "descripcion": "Tostadas de pan crujientes cubiertas con ingredientes frescos y sabrosos, típicamente servidas como aperitivo o snack.\nIngredientes:\n- 4-6 rebanadas de pan baguette\n- tomates frescos picados\n- taza de aceite de oliva\n-  dientes de ajo picados\n- taza de albahaca fresca pi",
+          "imagen": "https://th.bing.com/th/id/OIP.tShd0iimZXJfO9uiC903fwHaEO?w=260&h=180&c=7&r=0&o=5&pid=1.7",
+          "categoria": "entradas",
+          "estado": "activo",
+          "fechaRegistro": "2024-09-19T10:12:16.165Z",
+          "cantidad": 1
+        }
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "6039",
+      "nombre": "Fiesta de disfraces",
+      "fecha": "2024-09-29",
+      "descripcion": "Fiesta temática de la época",
+      "imagen": "https://www.lafactoriadelshow.com/blog/wp-content/uploads/2015/01/Depositphotos_19562453_m-596x395.jpg",
+      "categoria": "culturales",
+      "estado": "activo",
+      "fechaRegistro": "2024-09-12T14:34:44.352Z",
+      "estadoEvento": "proximo",
+      "cantidadCupos": "14",
+      "inscritos": []
+    }
+  ]
+}

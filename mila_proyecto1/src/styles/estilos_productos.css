@@ -1,0 +1,35 @@
+.tabs-container {
+    margin-top: 20px;
+}
+
+.tabs {
+    display: flex;
+    justify-content: center;
+    border-bottom: 2px solid #f5c518; /* Color dorado */
+}
+
+.tab-button {
+    background: none;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 16px;
+    color: #333;
+    transition: background-color 0.3s ease;
+}
+
+.tab-button.active {
+    background-color: #f5c518; /* Color dorado */
+    color: #fff;
+}
+
+.tabs-content {
+    margin-top: 20px;
+}
+
+.tab-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
